@@ -1,4 +1,4 @@
-# 04202018
+# date_04202018
 library(gtools)
 
 phi <- function(x,n,n.size){
